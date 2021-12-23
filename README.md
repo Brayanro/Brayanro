@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm Brayan
 
 
-- 🔭 I'm currently learning React.
+- 🔭 I'm React Developer.
 - 🌱 I’m currently studying software engineering.
 
 ### Languages and Tools:
