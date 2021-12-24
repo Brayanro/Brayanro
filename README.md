@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm Brayan
 
 
-- 🧑‍💻I'm Frontend Developer.
+- 🧑‍💻 I'm Frontend Developer.
 - 🌱 I’m currently studying software engineering.
 
 ### Languages and Tools:
