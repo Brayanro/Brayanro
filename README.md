@@ -1,8 +1,8 @@
 ### Hi! 👋 I'm Brayan
+#### **Frontend Developer**
+![Frontend Developer](https://raw.githubusercontent.com/Brayanro/Brayanro/main/banner.png)
 
-
-- 🧑‍💻 I'm Frontend Developer.
-- 🌱 I’m currently studying software engineering.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanro)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 <div>
