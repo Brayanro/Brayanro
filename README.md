@@ -1,10 +1,14 @@
-### Hi! 👋 I'm Brayan
-#### **Frontend Developer**
-![Frontend Developer](https://raw.githubusercontent.com/Brayanro/Brayanro/main/banner.png)
+# <h1 align="center">Hi, I'm Brayan 👋🏾🧑‍💻</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanro)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### Languages and Tools:
+###
+- 🔭 I’m Frontend Developer.
+- 🌱 I’m studying software engineering.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanro&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🛠 Languages and Tools:
 <div>
   <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
