@@ -4,7 +4,7 @@
 
 ###
 - 🔭 I’m Frontend Developer.
-- 🌱 I’m studying software engineering.
+- 🌱 I’m studying Software Engineering.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanro&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
