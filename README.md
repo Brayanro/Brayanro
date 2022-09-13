@@ -5,7 +5,7 @@
 </div>
   
 <h2 align="center">Frontend Developer and software Engineering Student.</h2>
-<p>Passionate about software development, good code and design practices, I keep in constant learning. I consider myself a persistent, cooperative, productive person who loves to work in a team.</p>
+<p>Frontend developer with domain in web technologies, with knowledge in frameworks such as React, Next.js, Bootstrap, Tailwind. Passionate about software development, good code and design practices; I am constantly learning. Proactive, collaborative and with the ability to work in a team.</p>
 
 
 ### 🛠 Languages and Tools:
