@@ -1,11 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Brayan 🧑‍💻</h1>
-
-<div align="center">
-  <img height="400px" alt="GIF"     src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" />
-</div>
   
-<h2 align="center">Frontend Developer and software Engineering Student.</h2>
-<p>Frontend developer with domain in web technologies, with knowledge in frameworks such as React, Next.js, Bootstrap, Tailwind. Passionate about software development, good code and design practices; I am constantly learning. Proactive, collaborative and with the ability to work in a team.</p>
+<h2 align="center">Frontend Developer and Software Engineering.</h2>
+<p>Frontend Developer with extensive experience in technologies such as JavaScript, React, Next.js, TypeScript, and Redux. As a Software Engineer, I specialize in transforming Figma designs into clean and responsive interfaces, using Bootstrap, Tailwind CSS, and Material UI. With knowledge in databases and SQL, I effectively integrate the frontend and backend. I am proactive, detail-oriented, and collaborative, always committed to best practices in code and design to deliver highly performance-optimized applications that exceed user expectations.</p>
 
 
 ### 🛠 Languages and Tools:
@@ -34,7 +30,7 @@
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayanromon/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brayan7890123@gmail.com)
-[![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-brayanro.vercel.app/)
+[![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.brayanrodriguez.xyz/)
 
 ## 📈 Some of my stats are: 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Brayanro&theme=nord)
