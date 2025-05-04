@@ -1,7 +1,7 @@
-# <h1 align="center">Hi 👋, I'm Brayan 🧑‍💻</h1>
+# <h1 align="center">Hi 👋, I'm Brayan Rodriguez Montealegre🧑‍💻</h1>
   
 <h2 align="center">Frontend Developer and Software Engineering.</h2>
-<p>Frontend Developer with extensive experience in technologies such as JavaScript, React, Next.js, TypeScript, and Redux. As a Software Engineer, I specialize in transforming Figma designs into clean and responsive interfaces, using Bootstrap, Tailwind CSS, and Material UI. With knowledge in databases and SQL, I effectively integrate the frontend and backend. I am proactive, detail-oriented, and collaborative, always committed to best practices in code and design to deliver highly performance-optimized applications that exceed user expectations.</p>
+<p>Frontend Developer with experience in JavaScript, React.Js, Next.Js, TypeScript, Redux, and Git. Specialized in transforming Figma designs into clean, responsive interfaces with Bootstrap, Tailwind CSS, and Material UI. With knowledge of databases, SQL, and front-end-backend integration, as well as experience in containerization with Docker, orchestration with Kubernetes, and deployment in the Azure cloud. Proactive, detail-oriented, and collaborative, focused on best practices and optimization to create scalable, efficient, and high-performance applications.</p>
 
 
 ### 🛠 Languages and Tools:
